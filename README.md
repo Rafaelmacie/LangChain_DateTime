@@ -6,5 +6,5 @@
 * Instalar as dependências com `pip install -r requirements.txt`
 * Criar um arquivo .env
 * Copiar o conteúdo de .env.example e colar dentro da nova .env
-* Substituir o valor de exemplo pela sua chave real gerada no Google AI Studio
+* Substituir o valor de exemplo pela sua chave real gerada no Playground do Groq
 * Rodar o comando `python main.py`
